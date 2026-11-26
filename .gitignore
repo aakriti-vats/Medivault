@@ -1,0 +1,24 @@
+
+# Java compiled files
+*.class
+target/
+
+# Eclipse IDE files
+.metadata/
+.settings/
+
+# Mac system files
+.DS_Store
+
+# Sensitive configuration files
+.env
+.env.*
+!.env.example
+config.properties
+application.properties
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
